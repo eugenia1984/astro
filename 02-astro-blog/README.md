@@ -1,12 +1,6 @@
-# Astro and its ecosystem
+# Udemy Astro Blog Project
 
-This repo contains all of the code used in the "Understanding Astro and its ecosystem" section of my Astro course on Udemy.
-
-You will find 2 practices:
-
-1. 01-first-simple-page: a landing page with links to new pages, using Astro, REact and markUp language.
-
-2. 02-astro-blog-project
+This repo contains the final code for the "Astro blog project" from my Udemy course on Astro.
 
 ---
 

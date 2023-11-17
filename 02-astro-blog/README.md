@@ -52,6 +52,13 @@ npm run dev
 ```BASH
 npm astro add react
 ```
+
+- To add strapi:
+
+```BASH
+npx create-strapi-app@latest strapi-blog --quickstart
+```
+
 ---
 
 ## <img width="30" height="30" src="https://img.icons8.com/dusk/30/apple-notes.png" alt="apple-notes"/> Notes

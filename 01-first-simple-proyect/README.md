@@ -29,7 +29,9 @@ Here you will see my first practice, a simple landing page with links to new pag
 
 - <img width="26" height="26" src="https://img.icons8.com/color/26/css3.png" alt="css3"/> CSS3
 
-- MarkUp Language
+- MarkUp and MDX Language
+
+- Strapi, to use remote data with Astro using REST and GraphQL
 
 - <img width="26" height="26" src="https://img.icons8.com/fluency/26/node-js.png" alt="nodejs"/> Node.js
 

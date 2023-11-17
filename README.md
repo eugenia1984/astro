@@ -31,7 +31,7 @@ You will find 2 practices:
 
 - <img width="26" height="26" src="https://img.icons8.com/fluency/26/node-js.png" alt="nodejs"/> Node.js
 
-- VSC extensions: Astro
+- VSC extensions: Astro, MDX
 
 ---
 

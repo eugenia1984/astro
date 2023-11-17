@@ -2,18 +2,18 @@
 
 This repo contains all of the code used in the "Understanding Astro and its ecosystem" section of my Astro course on Udemy.
 
-You will find 2 practices:
-
-1. 01-first-simple-page: a landing page with links to new pages, using Astro, REact and markUp language.
-
-2. 
+Here you will see my first practice, a simple landing page with links to new pages
 
 ---
 
 ## Features 📢
 
 
-✔️
+✔️ A Landing page with links to other pages
+
+✔️ Layouts
+
+✔️ Build with Astro and MarkUp Language.
 
 ---
 
@@ -28,6 +28,8 @@ You will find 2 practices:
 - <img width="26" height="26" src="https://img.icons8.com/color/26/html-5--v1.png" alt="html5"/> HTML5
 
 - <img width="26" height="26" src="https://img.icons8.com/color/26/css3.png" alt="css3"/> CSS3
+
+- MarkUp Language
 
 - <img width="26" height="26" src="https://img.icons8.com/fluency/26/node-js.png" alt="nodejs"/> Node.js
 
@@ -53,7 +55,7 @@ npm create astro@latest
 npm run dev
 ```
 
-- To add React, or what ever you will need:
+- To add React:
 
 ```BASH
 npm astro add react

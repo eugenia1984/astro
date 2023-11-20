@@ -29,7 +29,9 @@ You will find 2 practices:
 
 - Strapi
 
-- graphql, GET: `http://localhost:1337/graphql` to practice in the Graphql playground:
+- graphql, GET: `http://localhost:1337/graphql` to practice in the Graphql playground.
+
+Yo get the data:
 
 ```graphql
 query {
@@ -37,6 +39,13 @@ query {
     data {
       attributes {
         title
+        slug
+        body
+        image {
+          attributes {
+            formats
+          }
+        }
       }
     }
   }

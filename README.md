@@ -31,6 +31,22 @@ You will find 2 practices:
 
 - <img width="26" height="26" src="https://img.icons8.com/fluency/26/node-js.png" alt="nodejs"/> Node.js
 
+- Strapi
+
+- graphql, GET: `http://localhost:1337/graphql` to practice in the Graphql playground:
+
+```graphql
+query {
+  post {
+    data {
+      attributes {
+        title
+      }
+    }
+  }
+}
+```
+
 - VSC extensions: Astro, MDX
 
 ---

@@ -11,10 +11,11 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.15.4",
-    "@strapi/plugin-users-permissions": "4.15.4",
-    "@strapi/plugin-i18n": "4.15.4",
     "@strapi/plugin-cloud": "4.15.4",
+    "@strapi/plugin-graphql": "4.15.4",
+    "@strapi/plugin-i18n": "4.15.4",
+    "@strapi/plugin-users-permissions": "4.15.4",
+    "@strapi/strapi": "4.15.4",
     "better-sqlite3": "8.6.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -25,7 +26,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "02aec487-feab-489d-90fc-8de185ba9d90"
+    "uuid": "354a7a2c-2bdd-4edd-8943-403640e125db"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",

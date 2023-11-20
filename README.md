@@ -45,6 +45,8 @@ query {
 
 - VSC extensions: Astro, MDX
 
+- Chrome extension: JSON Viewer
+
 ---
 
 ## Read

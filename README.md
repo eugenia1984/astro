@@ -8,12 +8,8 @@ You will find 2 practices:
 
 2. 02-astro-blog-project
 
----
+3. 3. strapi-blog
 
-## Features 📢
-
-
-✔️
 
 ---
 
@@ -74,6 +70,7 @@ npm run dev
 ```BASH
 npm astro add react
 ```
+
 ---
 
 ## <img width="30" height="30" src="https://img.icons8.com/dusk/30/apple-notes.png" alt="apple-notes"/> Notes
